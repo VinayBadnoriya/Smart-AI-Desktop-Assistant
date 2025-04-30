@@ -1,3 +1,7 @@
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 from assistant import greet_user, perform_task, speak
 from recognizer import listen_command
 import time
